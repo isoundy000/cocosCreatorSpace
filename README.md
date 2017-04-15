@@ -1,4 +1,3 @@
 # cocosCreatorSpace
 Space Develop by cocos creator.
-
-this is sencond edit.
+星球项目Git分支
