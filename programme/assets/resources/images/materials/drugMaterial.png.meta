@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "18548e7a-443d-4064-9695-12a756368b06",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "drugMaterial": {
+      "ver": "1.0.3",
+      "uuid": "e55bc81f-14ac-4478-b350-349b727cb092",
+      "rawTextureUuid": "18548e7a-443d-4064-9695-12a756368b06",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 96,
+      "height": 1610,
+      "rawWidth": 100,
+      "rawHeight": 1614,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

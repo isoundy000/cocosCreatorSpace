@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "showWarehouse",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 255
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.1
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": 0.2
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.1
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": 0.2
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

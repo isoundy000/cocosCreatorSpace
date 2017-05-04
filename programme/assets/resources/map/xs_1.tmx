@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="19" height="23" tilewidth="90" tileheight="90" nextobjectid="4">
+ <tileset firstgid="1" name="xinshou_dt" tilewidth="90" tileheight="90">
+  <image source="../../../../../space_ui/dt/yy/xinshou_dt.png" width="720" height="900"/>
+ </tileset>
+ <layer name="background" width="19" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztktEKgCAMRfc7PoQwRPz/L0thg3VZpSX14sMBdXe3Xa0QUVn8CleyYNe693RevZEqm9DWwextX6tFOY9G3+MVTc/W6cWOVxB9MCTnG+ilGTCTEi/Ozu4L59e5bM67uRh0ti/RMSsLqsO5vFz47urj1Uf+P30PzPME9cI8b7xmzMUTvbJ4jd7z4ht2wQlbqA==
+  </data>
+ </layer>
+ <layer name="obstruction" width="19" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztkNsKgCAMhn0Db+xwkQlFd91ERO//Zjn4xTESC4S68IOxsYO/m1KVv3DCb5m+VnjJ6M0h1vDzjY5GnvdLFtSJzluP2LI6rzmWk5DWIHIpXdI8EjWCdjCsh/ca1HcVbxRyKYKeha3eGhV3D/+eWC5F2F/OOsRyXt7kC2y+5TG5+7yh5G1K/ssUfKtSlgu9+Qe7
+  </data>
+ </layer>
+ <objectgroup name="monster">
+  <object id="3" x="990" y="1080" width="90" height="90"/>
+ </objectgroup>
+</map>
