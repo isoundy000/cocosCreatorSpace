@@ -1,0 +1,16 @@
+TextCfg.xlsx	文本表
+SoundCfg.xlsx	音效表
+PropeCfg.xlsx	附加属性表
+IntensifyCfg.xlsx	装备强化表
+MakeCfg.xlsx	药品合成表	
+---------------------------------------------------------
+MonsterCfg.xlsx	怪物表	10000000-19999999
+EquipCfg.xlsx	装备表	20000000-29999999
+StuffCfg.xlsx	物品表	30000000-39999999
+SkillCfg.xlsx	技能表	40000000-49999999
+StatusCfg.xlsx	状态表	50000000-59999999
+MapTrapCfg.xlsx	陷阱表	60000000-60299999
+ShipMixCfg.xlsx	飞船部件表	60300000-60399999
+MapBox.xlsx	地图宝箱表	60400000-60499999
+DropCfg.xlsx	掉落表	70000000-79999999
+ShopCfg.xlsx	商店表	80000000-89999999
