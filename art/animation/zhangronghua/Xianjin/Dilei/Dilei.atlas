@@ -1,0 +1,76 @@
+
+Dilei.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bao1
+  rotate: false
+  xy: 2, 106
+  size: 139, 143
+  orig: 139, 143
+  offset: 0, 0
+  index: -1
+Bao2
+  rotate: false
+  xy: 143, 106
+  size: 139, 143
+  orig: 139, 143
+  offset: 0, 0
+  index: -1
+Bao3
+  rotate: false
+  xy: 284, 106
+  size: 139, 143
+  orig: 139, 143
+  offset: 0, 0
+  index: -1
+Bao4
+  rotate: false
+  xy: 425, 106
+  size: 139, 143
+  orig: 139, 143
+  offset: 0, 0
+  index: -1
+Bao5
+  rotate: false
+  xy: 566, 106
+  size: 139, 143
+  orig: 139, 143
+  offset: 0, 0
+  index: -1
+Bao6
+  rotate: false
+  xy: 707, 106
+  size: 139, 143
+  orig: 139, 143
+  offset: 0, 0
+  index: -1
+Dilei
+  rotate: true
+  xy: 848, 129
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+Guang
+  rotate: false
+  xy: 848, 191
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 107, 63
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+Zhaheng
+  rotate: false
+  xy: 2, 2
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+Wu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wu1
+  rotate: false
+  xy: 2, 330
+  size: 170, 162
+  orig: 170, 162
+  offset: 0, 0
+  index: -1
+Wu2
+  rotate: false
+  xy: 2, 166
+  size: 170, 162
+  orig: 170, 162
+  offset: 0, 0
+  index: -1
+Wu3
+  rotate: false
+  xy: 174, 330
+  size: 170, 162
+  orig: 170, 162
+  offset: 0, 0
+  index: -1
+Wu4
+  rotate: false
+  xy: 2, 2
+  size: 170, 162
+  orig: 170, 162
+  offset: 0, 0
+  index: -1
+Wu5
+  rotate: false
+  xy: 174, 166
+  size: 170, 162
+  orig: 170, 162
+  offset: 0, 0
+  index: -1
+Wu6
+  rotate: true
+  xy: 346, 322
+  size: 170, 162
+  orig: 170, 162
+  offset: 0, 0
+  index: -1
+Wu7
+  rotate: false
+  xy: 174, 2
+  size: 170, 162
+  orig: 170, 162
+  offset: 0, 0
+  index: -1

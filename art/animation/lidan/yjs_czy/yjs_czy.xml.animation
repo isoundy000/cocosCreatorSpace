@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\Workside\ui\space_ui\animation\yjs_czy</ProjectDir>
+  <Version>1.5.0.1</Version>
+  <Resources>D:\Workside\ui\space_ui\animation\yjs_czy\Resources</Resources>
+  <Name>yjs_czy</Name>
+  <JsonFileName>yjs_czy.json</JsonFileName>
+  <JsonFolder>D:\Workside\ui\space_ui\animation\yjs_czy\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>D:\Workside\ui\space_ui\animation\yjs_czy\yjs_czy.xml.animation</filePath>
+  <ProjectType>AnimationProject</ProjectType>
+  <ResRelativePath />
+  <ResourceFileList />
+  <bBatchImage>false</bBatchImage>
+</AnimationProject>

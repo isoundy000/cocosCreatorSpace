@@ -1,0 +1,83 @@
+
+Sangshiyisheng.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Daizi
+  rotate: true
+  xy: 691, 163
+  size: 28, 75
+  orig: 28, 75
+  offset: 0, 0
+  index: -1
+Dao
+  rotate: false
+  xy: 276, 75
+  size: 177, 71
+  orig: 177, 71
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: true
+  xy: 480, 141
+  size: 113, 134
+  orig: 113, 134
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: true
+  xy: 2, 14
+  size: 240, 272
+  orig: 240, 272
+  offset: 0, 0
+  index: -1
+Youjiao
+  rotate: false
+  xy: 794, 222
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: true
+  xy: 276, 2
+  size: 71, 102
+  orig: 71, 102
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: true
+  xy: 691, 193
+  size: 61, 101
+  orig: 61, 101
+  offset: 0, 0
+  index: -1
+Zuojiao
+  rotate: false
+  xy: 844, 220
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 616, 158
+  size: 73, 96
+  orig: 73, 96
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: false
+  xy: 380, 4
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 276, 148
+  size: 202, 106
+  orig: 202, 106
+  offset: 0, 0
+  index: -1

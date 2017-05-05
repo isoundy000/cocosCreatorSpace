@@ -1,0 +1,188 @@
+
+Sangshihushi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Huosai
+  rotate: true
+  xy: 508, 258
+  size: 112, 53
+  orig: 112, 53
+  offset: 0, 0
+  index: -1
+Maozi
+  rotate: false
+  xy: 2, 91
+  size: 218, 156
+  orig: 218, 156
+  offset: 0, 0
+  index: -1
+Shengti
+  rotate: true
+  xy: 700, 394
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 2, 249
+  size: 237, 247
+  orig: 237, 247
+  offset: 0, 0
+  index: -1
+Toufa1
+  rotate: false
+  xy: 140, 7
+  size: 106, 82
+  orig: 106, 82
+  offset: 0, 0
+  index: -1
+Toufa2
+  rotate: true
+  xy: 445, 372
+  size: 124, 138
+  orig: 124, 138
+  offset: 0, 0
+  index: -1
+Toufa3
+  rotate: true
+  xy: 241, 271
+  size: 117, 150
+  orig: 117, 150
+  offset: 0, 0
+  index: -1
+Toufa4
+  rotate: true
+  xy: 828, 373
+  size: 51, 114
+  orig: 51, 114
+  offset: 0, 0
+  index: -1
+Toufa5
+  rotate: false
+  xy: 585, 374
+  size: 113, 122
+  orig: 113, 122
+  offset: 0, 0
+  index: -1
+Toufa6
+  rotate: false
+  xy: 222, 141
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+Toufa7
+  rotate: true
+  xy: 2, 2
+  size: 87, 136
+  orig: 87, 136
+  offset: 0, 0
+  index: -1
+Toufa8
+  rotate: true
+  xy: 393, 264
+  size: 106, 113
+  orig: 106, 113
+  offset: 0, 0
+  index: -1
+Yachi
+  rotate: true
+  xy: 222, 91
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+Yaoshui
+  rotate: true
+  xy: 983, 392
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 241, 390
+  size: 202, 106
+  orig: 202, 106
+  offset: 0, 0
+  index: -1
+Youdatui
+  rotate: true
+  xy: 329, 223
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+Youjiao
+  rotate: false
+  xy: 563, 337
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: true
+  xy: 241, 218
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+Youxiaotui
+  rotate: false
+  xy: 332, 183
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+Zhentong
+  rotate: false
+  xy: 828, 426
+  size: 152, 70
+  orig: 152, 70
+  offset: 0, 0
+  index: -1
+Zhentong1
+  rotate: false
+  xy: 982, 426
+  size: 16, 70
+  orig: 16, 70
+  offset: 0, 0
+  index: -1
+Zui
+  rotate: false
+  xy: 254, 96
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+Zuodatui
+  rotate: false
+  xy: 944, 380
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Zuojiao
+  rotate: false
+  xy: 563, 309
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 284, 141
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+Zuoxiaotui
+  rotate: false
+  xy: 332, 147
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1

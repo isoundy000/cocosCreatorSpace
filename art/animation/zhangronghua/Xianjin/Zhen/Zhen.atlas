@@ -1,0 +1,69 @@
+
+Zhen.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fenzhen
+  rotate: true
+  xy: 145, 26
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+Guang
+  rotate: true
+  xy: 2, 5
+  size: 40, 75
+  orig: 40, 75
+  offset: 0, 0
+  index: -1
+Heizhen
+  rotate: false
+  xy: 79, 57
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+Hongzhen
+  rotate: false
+  xy: 124, 57
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+Huangzhen
+  rotate: true
+  xy: 79, 13
+  size: 42, 64
+  orig: 42, 64
+  offset: 0, 0
+  index: -1
+Lanzhen
+  rotate: false
+  xy: 169, 57
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+Lvzhen
+  rotate: false
+  xy: 212, 58
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+Quan
+  rotate: false
+  xy: 2, 47
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 145, 2
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1

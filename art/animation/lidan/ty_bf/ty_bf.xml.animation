@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<AnimationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\Workside\ui\space_ui\animation\ty_bf</ProjectDir>
+  <Version>1.5.0.1</Version>
+  <Resources>D:\Workside\ui\space_ui\animation\ty_bf\Resources</Resources>
+  <Name>bat</Name>
+  <JsonFileName>bat.json</JsonFileName>
+  <JsonFolder>D:\Workside\ui\space_ui\animation\ty_bf\Json</JsonFolder>
+  <JsonList />
+  <CanvasSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </CanvasSize>
+  <filePath>D:\Workside\ui\space_ui\animation\ty_bf\ty_bf.xml.animation</filePath>
+  <ProjectType>AnimationProject</ProjectType>
+  <ResRelativePath />
+  <ResourceFileList />
+  <bBatchImage>false</bBatchImage>
+</AnimationProject>

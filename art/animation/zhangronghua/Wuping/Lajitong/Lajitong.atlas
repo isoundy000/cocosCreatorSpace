@@ -1,0 +1,62 @@
+
+Lajitong.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gai1
+  rotate: false
+  xy: 391, 7
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+Gai2
+  rotate: false
+  xy: 319, 2
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+Guang
+  rotate: true
+  xy: 206, 40
+  size: 81, 111
+  orig: 81, 111
+  offset: 0, 0
+  index: -1
+Laji
+  rotate: false
+  xy: 206, 2
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+Tong1
+  rotate: true
+  xy: 319, 57
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+Tong2
+  rotate: true
+  xy: 404, 55
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+Yingzi
+  rotate: false
+  xy: 2, 15
+  size: 202, 106
+  orig: 202, 106
+  offset: 0, 0
+  index: -1
+Zhou
+  rotate: false
+  xy: 482, 101
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1

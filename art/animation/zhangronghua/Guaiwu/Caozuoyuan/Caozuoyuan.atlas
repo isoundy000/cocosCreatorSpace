@@ -1,0 +1,146 @@
+
+Caozuoyuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bu
+  rotate: true
+  xy: 146, 2
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+Daizi1
+  rotate: false
+  xy: 794, 384
+  size: 138, 126
+  orig: 138, 126
+  offset: 0, 0
+  index: -1
+Daizi2
+  rotate: false
+  xy: 632, 404
+  size: 160, 106
+  orig: 160, 106
+  offset: 0, 0
+  index: -1
+Koupi
+  rotate: false
+  xy: 261, 225
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+Mianzhao1
+  rotate: false
+  xy: 261, 272
+  size: 241, 238
+  orig: 241, 238
+  offset: 0, 0
+  index: -1
+Mianzhao2
+  rotate: false
+  xy: 504, 353
+  size: 126, 157
+  orig: 126, 157
+  offset: 0, 0
+  index: -1
+Shenti
+  rotate: true
+  xy: 504, 244
+  size: 107, 128
+  orig: 107, 128
+  offset: 0, 0
+  index: -1
+Shetou
+  rotate: false
+  xy: 632, 371
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Tong
+  rotate: false
+  xy: 2, 10
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 2, 216
+  size: 257, 294
+  orig: 257, 294
+  offset: 0, 0
+  index: -1
+Yachi
+  rotate: false
+  xy: 100, 2
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+Youbi
+  rotate: true
+  xy: 934, 447
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+Youjiao
+  rotate: false
+  xy: 981, 410
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+Youshou
+  rotate: false
+  xy: 206, 117
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+Youtui
+  rotate: false
+  xy: 100, 32
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+Zuobi
+  rotate: false
+  xy: 934, 388
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+Zuojiao
+  rotate: false
+  xy: 319, 247
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+Zuoshou
+  rotate: false
+  xy: 169, 77
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Zuotui
+  rotate: false
+  xy: 206, 150
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 108
+  size: 202, 106
+  orig: 202, 106
+  offset: 0, 0
+  index: -1
